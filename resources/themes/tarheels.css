@@ -1,0 +1,331 @@
+/** Root Display */
+.Root {
+    -fx-background-image: url('backgrounds/Tarheels.jpg');
+    -fx-background-position: center;
+    -fx-background-size: cover;
+    -fx-border-width: 5px;
+    -fx-border-color: white;
+}
+/** Dialog Pane */
+.DialogPane {
+    -fx-background-color: linear-gradient(white, #4B9CD3);
+}
+.DialogPane > *.label.content{
+    -fx-alignment: center;
+}
+.DialogPane:header *.header-panel{
+  -fx-background-color: linear-gradient(#0da2ff 0%, #59bfff 50%, #26abff 51%, #bfe6ff 100%);
+}
+.DialogPane:header *.header-panel *.label{
+    -fx-alignment: center;
+}
+/** Display Content  */
+VBox {
+    -fx-alignment: center;
+    -fx-spacing: 20;
+}
+HBox {
+    -fx-alignment: center;
+    -fx-spacing: 150;
+}
+.Title {
+    -fx-bold: true;
+    -fx-underline: true;
+    -fx-padding: 50 10 50 10;
+}
+.TitleSmall {
+    -fx-font-size: 20;
+}
+.TitleMedium {
+    -fx-font-size: 25;
+}
+.TitleLarge {
+    -fx-font-size: 30;
+}
+.TitleXLarge {
+    -fx-font-size: 35;
+}
+Label {
+  -fx-alignment: center;
+  -fx-text-fill: white;
+  -fx-underline: true;
+  -fx-bold: true;
+  -fx-effect: dropshadow(gaussian, black, 10, 0.5, 2, 1);
+}
+.LabelSmall {
+  -fx-font-size: 20;
+}
+.LabelMedium {
+  -fx-font-size: 22;
+}
+.LabelLarge {
+  -fx-font-size: 24;
+}
+.LabelXLarge {
+  -fx-font-size: 26;
+}
+.Back {
+    -fx-effect: dropshadow(gaussian, navy, 10, 0.5, 2, 1);
+}
+/** Button Basic Style */
+Button: hover {
+    -fx-background-color: linear-gradient(#203354 0%, #192841 50%, #1c2e4a 51%, #23395d 100%);
+}
+Button {
+  -fx-background-color: linear-gradient(#0da2ff 0%, #59bfff 50%, #26abff 51%, #bfe6ff 100%);
+  -fx-text-fill: mintCream;
+  -fx-alignment: center;
+  -fx-bold: true;
+  -fx-padding: 20 20 20 20;
+  -fx-text-alignment: center;
+}
+.ButtonSmall {
+  -fx-effect: dropshadow(gaussian, navy, 20, 0.5, 2, 1);
+  -fx-font-size: 20;
+}
+.ButtonMedium {
+  -fx-effect: dropshadow(gaussian, navy, 20, 0.5, 2, 1);
+  -fx-font-size: 25;
+}
+.ButtonLarge {
+  -fx-effect: dropshadow(gaussian, navy, 20, 0.5, 2, 1);
+  -fx-font-size: 30;
+}
+.ButtonXLarge {
+  -fx-effect: dropshadow(gaussian, navy, 20, 0.5, 2, 1);
+  -fx-font-size: 35;
+}
+text {
+  -fx-alignment: center;
+}
+.LoginButton {
+  -fx-content-display: bottom;
+}
+/** Intro Display */
+.IntroButton {
+  -fx-effect: dropshadow(gaussian, navy, 20, 0.5, 2, 1);
+  -fx-font-size: 30;
+}
+.IntroDisplay {
+    -fx-background-image: url('backgrounds/IntroPNG.png');
+    -fx-background-position: center;
+    -fx-background-size: cover;
+    -fx-padding: 300 100 20 100;
+}
+/** Set Game display */
+.SetGameDisplay {
+    -fx-background-position: center;
+    -fx-background-size: cover;
+    -fx-padding: 0 0 0 0;
+}
+/** Game Settings display */
+.GameSettings {
+  -fx-padding: 40 40 40 40;
+}
+/** About Display **/
+.AboutEntry {
+  -fx-padding: 20 50 20 50;
+}
+.AboutDescription {
+  -fx-underline: false;
+}
+/** Theme Display **/
+.ThemeBox {
+  -fx-alignment: center;
+  -fx-padding: 0 200 0 200;
+  -fx-underline: false;
+  -fx-hgap: 100;
+  -fx-vgap: 20;
+}
+.ThemeButton {
+  -fx-effect: dropshadow(gaussian, navy, 10, 0.5, 2, 1);
+}
+/** Font Settings */
+.Arial {
+  -fx-font-family: Arial;
+}
+.Chalkduster {
+  -fx-font-family: Chalkduster;
+}
+.Copperplate {
+  -fx-font-family: Copperplate;
+}
+.Futura {
+  -fx-font-family: Futura;
+}
+.Georgia {
+  -fx-font-family: Georgia;
+}
+.Impact {
+  -fx-font-family: Impact;
+}
+.Luminari {
+  -fx-font-family: Luminari;
+}
+.Monaco {
+  -fx-font-family: Monaco;
+}
+.Noteworthy {
+  -fx-font-family: Noteworthy;
+}
+.Papyrus {
+  -fx-font-family: Papyrus;
+}
+.Phosphate {
+  -fx-font-family: Phosphate;
+}
+.SignPainter {
+  -fx-font-family: SignPainter;
+}
+.FontButton {
+  -fx-spacing: 20;
+}
+/** GridPane */
+.GridPane {
+  -fx-padding: 50 20 50 20;
+  -fx-alignment: center;
+  -fx-hgap: 30;
+  -fx-vgap: 30;
+}
+.LanguageButton {
+  -fx-spacing: 50;
+  -fx-padding: 30 30 30 30;
+}
+/** Profile Settings */
+.MyProfileDisplay {
+  -fx-alignment: center;
+}
+.GameStats {
+  -fx-alignment: center;
+  -fx-font-size: 20;
+}
+.GameStats:hover {
+  -fx-background-color: linear-gradient(#0da2ff 0%, #59bfff 50%, #26abff 51%, #bfe6ff 100%);
+}
+/** ToolBar and buttons */
+.ToolBar {
+    -fx-background-color: linear-gradient(white, #4B9CD3);
+    -fx-spacing: 20;
+    -fx-padding: 10 20 10 20;
+    -fx-alignment: center;
+}
+.ToolbarButton {
+     -fx-padding: 10 10 10 10;
+ }
+ .ToolbarButtonSmall {
+     -fx-font-size: 14;
+ }
+ .ToolbarButtonMedium {
+     -fx-font-size: 16;
+ }
+ .ToolbarButtonLarge {
+     -fx-font-size: 18;
+ }
+ .ToolbarButtonXLarge {
+     -fx-font-size: 20;
+ }
+ .GreetingButton {
+     -fx-text-fill: white;
+     -fx-effect: dropshadow(gaussian, black, 10, 0.5, 2, 1);
+ }
+ .Narration_Text {
+   -fx-text-fill: #39FF14;
+   -fx-font: bold 42 "Impact";
+   -fx-stroke: black;
+   -fx-stroke-width: 2px;
+ }
+
+.PlayerHand {
+    -fx-background-color: transparent;
+    -fx-font-size: 15;
+    -fx-text-fill: #00539B;
+    -fx-spacing: 20;
+    -fx-border-radius: 20;
+    -fx-alignment: center;
+}
+.Card {
+    -fx-fill: linear-gradient(to bottom right, #5ca0f2 0%, #f5f7f6 74%);
+    -fx-arc-height: 16;
+     -fx-arc-width: 16;
+     -fx-stroke: white;
+     -fx-stroke-width: 2px;
+}REDCard {
+     -fx-fill: #a71930;
+     -fx-arc-height: 16;
+     -fx-arc-width: 16;
+     -fx-stroke: white;
+     -fx-stroke-width: 2px;
+ }
+ .GREENCard {
+     -fx-fill: #006A4E;
+     -fx-arc-height: 16;
+     -fx-arc-width: 16;
+     -fx-stroke: white;
+     -fx-stroke-width: 2px;
+ }
+ .YELLOWCard {
+     -fx-fill: #FFC72C;
+     -fx-arc-height: 16;
+     -fx-arc-width: 16;
+     -fx-stroke: white;
+     -fx-stroke-width: 2px;
+ }
+ .BLUECard {
+     -fx-fill: #0066b2;
+     -fx-arc-height: 13;
+     -fx-arc-width: 13;
+     -fx-stroke: white;
+     -fx-stroke-width: 2px;
+ }
+ .NONECard {
+   -fx-fill: black;
+   -fx-arc-height: 13;
+   -fx-arc-width: 13;
+   -fx-stroke: white;
+   -fx-stroke-width: 2px;
+ }
+ .Card_Text {
+   -fx-fill: white;
+   -fx-font: bold 56 "Impact";
+ }
+ .Back_Card_Text {
+   -fx-fill: white;
+   -fx-font: bold 32 "Impact";
+   -fx-font-style: italic;
+ }
+ .Deck_Text {
+   -fx-fill: white;
+   -fx-font: bold 80 "Impact";
+ }
+ .Selected_Text {
+   -fx-fill: gold;
+   -fx-font: bold 56 "Impact";
+   -fx-stroke: black;
+   -fx-stroke-width: 2px;
+ }
+ .Selected_Card {
+   -fx-stroke: gold;
+   -fx-stroke-width: 6px;
+ }
+ .Valid_Text {
+   -fx-fill: #39FF14;
+   -fx-font: bold 56 "Impact";
+   -fx-stroke: black;
+   -fx-stroke-width: 2px;
+ }
+ .Valid_Card {
+   -fx-stroke: #39FF14;
+   -fx-stroke-width: 4px;
+ }
+ .CenterDecks {
+   -fx-background-color: transparent;
+   -fx-background-position: center;
+   -fx-font-size: 15;
+   -fx-spacing: 100;
+   -fx-border-radius: 20;
+   -fx-alignment: center;
+ }
+ .Draw_Card_Now {
+   -fx-stroke: gold;
+   -fx-stroke-width: 6px;
+ }
