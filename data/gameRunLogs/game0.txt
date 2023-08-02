@@ -1,0 +1,8 @@
+Player hand for player id: 0
+ [BLUE, BLUE, RED]
+ [[number], [reverse], [number]]
+ [[8], [1], [9]]
+Player hand for player id: 1
+ [BLUE, RED, YELLOW]
+ [[number], [number], [number]]
+ [[2], [4], [5]]

@@ -1,0 +1,10 @@
+Player hand for player id: 0
+ [YELLOW]
+ [[skip]]
+ [[1]]
+Player hand for player id: 1
+ [YELLOW]
+ [[reverse]]
+ [[1]]
+Play deck top card: YELLOW skip 1
+Card just played by real player: BLUE [8] [number]
