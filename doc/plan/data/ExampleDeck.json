@@ -1,0 +1,16 @@
+{
+  "cardPaths": [
+    "data/cardFiles/blue0.SIM",
+    "data/cardFiles/blue1.SIM",
+    "data/cardFiles/blue2.SIM",
+    "data/cardFiles/blue3.SIM",
+    "data/cardFiles/blueSkip.SIM",
+    "data/cardFiles/blueReverse.SIM",
+    "data/cardFiles/red0.SIM",
+    "data/cardFiles/red1.SIM",
+    "data/cardFiles/red2.SIM",
+    "data/cardFiles/red3.SIM",
+    "data/cardFiles/redSkip.SIM",
+    "data/cardFiles/redReverse.SIM"
+  ]
+}

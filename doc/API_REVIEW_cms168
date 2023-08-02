@@ -1,0 +1,12 @@
+## API Review
+### Cate Schick cms168
+
+## Takeaways
+
+* I worked with Katherine, who implemented Grid-based games as her final project.
+* Katherine seemed to understand my Display API fairly well, and mentioned that she thought
+it was well-designed and straightforward.
+* I received some suggestions about removing APIS for classes I have changed to final, which
+helped me re-organize my View APIs
+* Katherine also commented that my API is hard to misuse as the user is notified of many
+instances when things go wrong.

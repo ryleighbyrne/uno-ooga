@@ -1,0 +1,6 @@
+Write any number of example data files needed to represent the simplest possible useful game.
+The goal of these files is to help the team agree on standard locations and formats for your shared data
+(such as property files for configurations within your Java code, your team's chosen file format for
+representing game data, and other asset files like HTML pages, images, or sounds) rather than to
+create a complex working game. Note, your example does not need to be exhaustive, just representative
+of the file's format.

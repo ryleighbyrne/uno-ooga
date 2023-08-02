@@ -1,0 +1,17 @@
+{
+  "players": [
+    {"name": "Keith",
+    "cardPaths": [
+      "data/cardFiles/red3.SIM",
+      "data/cardFiles/blue2.SIM",
+      "data/cardFiles/greenSkip.SIM"
+    ]},
+
+    {"name": "Cate",
+      "cardPaths": [
+        "data/cardFiles/wildCard.SIM",
+        "data/cardFiles/green7.SIM"
+      ]}
+  ],
+  "mainPlayer": "Keith", "currentTurnPlayer": "Cate", "language": "English", "unoType": "Basic"
+}
