@@ -1,0 +1,32 @@
+
+{
+  "unoType": "basic",
+  "numPlayers": 4,
+  "cardsPerPlayer": 1,
+  "players": [],
+  "playDeck": [],
+  "timedTurns": true,
+  "backCardImagePath": "",
+  "drawDeck": [
+    {"color": "YELLOW",
+      "cardInfos":
+      [{"type":  "skip",
+        "param":  1}]},
+    {"color": "YELLOW",
+      "cardInfos":
+      [{"type":  "reverse",
+        "param":  1}]},
+    {"color": "YELLOW",
+      "cardInfos":
+      [{"type":  "skip",
+        "param":  1}]},
+    {"color": "YELLOW",
+      "cardInfos":
+      [{"type":  "reverse",
+        "param":  1}]}
+  ],
+
+}
+
+
+

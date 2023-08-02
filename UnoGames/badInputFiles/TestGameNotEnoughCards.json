@@ -1,0 +1,25 @@
+
+{
+  "unoType": "basic",
+  "started": false,
+  "numPlayers": 4,
+  "cardsPerPlayer": 4,
+  "timedTurns": true,
+  "backCardImagePath": "",
+  "players": [],
+  "playDeck": [],
+  "drawDeck": [
+    {"color": "RED",
+      "cardInfos":
+      [{"type":  "number",
+        "param":  0}]},
+    {"color": "RED",
+      "cardInfos":
+      [{"type":  "number",
+        "param":  1}]}
+  ],
+  "language": "English"
+}
+
+
+
