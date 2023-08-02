@@ -1,0 +1,35 @@
+
+{
+  "unoType": "basic",
+  "started": false,
+  "numPlayers": 2,
+  "cardsPerPlayer": 1,
+  "timedTurns": true,
+  "backCardImagePath": "",
+  "players": [],
+  "playDeck": [],
+  "drawDeck": [
+    {"color": "RED",
+      "cardInfos":
+      [{"type":  "number",
+        "param":  0}]},
+    {"color": "RED",
+      "cardInfos":
+      [{"type":  "number",
+        "param":  3}]},
+    {"color": "RED",
+      "cardInfos":
+      [{"type":  "number",
+        "param":  1}]},
+    {"color": "RED",
+      "cardInfos":
+      [{"type":  "number",
+        "param":  7}]},
+    {"color": "RED",
+      "cardInfos":
+      [{"type":  "number",
+        "param":  3}]}
+  ],
+  "language": "English"
+}
+

@@ -1,0 +1,26 @@
+
+{
+  "unoType": "basic",
+  "started": false,
+  "players": [],
+  "numPlayers": 4,
+  "cardsPerPlayer": 5,
+  "timedTurns": true,
+  "backCardImagePath": "",
+  "playDeck": [],
+  "drawDeck": [
+    {"color": "YELLOW",
+      "cardInfos":
+      [{"type":  "skip",
+        "param":  1}]},
+    {"color": "YELLOW!!!!!!!!",
+      "cardInfos":
+      [{"type":  "reverse",
+        "param":  1}]}
+  ],
+
+  "mainPlayer": "Keith", "currentTurnPlayer": "Cate", "language": "English", "unoType": "Basic"
+}
+
+
+

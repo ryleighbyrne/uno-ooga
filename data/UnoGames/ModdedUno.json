@@ -1,0 +1,1002 @@
+{
+  "unoType": "basic",
+  "backCardImagePath": "src/resources/themes/cards/angryBirds.png",
+  "started": false,
+  "numPlayers": 4,
+  "cardsPerPlayer": 5,
+  "players": [],
+  "playDeck": [],
+  "drawDeck": [
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 3
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 5
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 6
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 7
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 8
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "number",
+          "param": 9
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "skip",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "reverse",
+          "param": 1
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "RED",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "BLUE",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "YELLOW",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "GREEN",
+      "cardInfos": [
+        {
+          "type": "draw",
+          "param": 2
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        },
+        {
+          "type": "draw",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        },
+        {
+          "type": "draw",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        },
+        {
+          "type": "draw",
+          "param": 4
+        }
+      ]
+    },
+    {
+      "color": "NONE",
+      "cardInfos": [
+        {
+          "type": "wild",
+          "param": 0
+        },
+        {
+          "type": "draw",
+          "param": 4
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}
+
+

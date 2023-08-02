@@ -1,0 +1,16 @@
+
+{
+  "unoType": "ooga.model.games.BasicGame",
+  "started": false,
+  "numPlayers": 4,
+  "cardsPerPlayer": 5,
+  "timedTurns": true,
+  "backCardImagePath": "",
+  "players": [],
+  "playDeck": [],
+
+  "mainPlayer": "Keith", "currentTurnPlayer": "Cate", "language": "English", "unoType": "Basic"
+}
+
+
+
